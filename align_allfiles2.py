@@ -1,5 +1,4 @@
 #! /usr/bin/env python
-# original Written by Jules Jacobsen (jacobsen@ebi.ac.uk). Feel free to do whatever you like with this code.
 # modified by Edwin kamau on 7.15.15
 # Does alignment and grabs score terms from clustered pdbs after design or loop modeling
 # outputs a csv file with score terms and rmsd that can then be used for score vs rmsd plots
